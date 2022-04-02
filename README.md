@@ -4,7 +4,7 @@ Increased use of online social media sites has given rise to tremendous amounts 
 # Dataset statistics
 
 | Category  | Tweets | Words |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Humorous  | 458 | 5477  |
 | Non-Humorous  | 1918 | 18098  |
 | Other | 273 | 4213 |
@@ -12,7 +12,7 @@ Increased use of online social media sites has given rise to tremendous amounts 
 # Results
 
 | Model  | Accuracy | F1-score |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Multilingual BERT | 81.5 | 0.81 |
 | Multilingual DistilBERT | 73.4 | 0.73 |
 | XLM-RoBERTa | 81.5 | 0.82 |
