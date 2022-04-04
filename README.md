@@ -9,6 +9,11 @@ Increased use of online social media sites has given rise to tremendous amounts 
 | Non-Humorous  | 1918 | 18098  |
 | Other | 273 | 4213 |
 
+The dataset contains Tweet id which can be scraped using the Twitter API. Furthermore, the labels are as follows: 
+1. 0 indicating non-humourous text
+2. 1 indicating humourous text
+3. n/N indicating facts or tweet with images/video.
+
 # Results
 
 | Model  | Accuracy | F1-score |
