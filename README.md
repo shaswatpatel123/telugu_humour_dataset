@@ -23,3 +23,16 @@ The dataset contains Tweet id which can be scraped using the Twitter API. Furthe
 | Multilingual BERT | 81.5 | 0.81 |
 | Multilingual DistilBERT | 73.4 | 0.73 |
 | XLM-RoBERTa | 81.5 | 0.82 |
+
+# Cite our work
+"""
+@inproceedings{bellamkonda-etal-2022-dataset,
+    title = "A Dataset for Detecting Humor in {T}elugu Social Media Text",
+    author = "Bellamkonda, Sriphani  and
+      Lohakare, Maithili  and
+      Patel, Shaswat",
+    booktitle = "Proceedings of the Second Workshop on Speech and Language Technologies for Dravidian Languages",
+    month = may,
+    year = "2022"
+}
+"""
