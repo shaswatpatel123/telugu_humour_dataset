@@ -25,7 +25,7 @@ The dataset contains Tweet id which can be scraped using the Twitter API. Furthe
 | XLM-RoBERTa | 81.5 | 0.82 |
 
 # Cite our work
-"""
+```
 @inproceedings{bellamkonda-etal-2022-dataset,
     title = "A Dataset for Detecting Humor in {T}elugu Social Media Text",
     author = "Bellamkonda, Sriphani  and
@@ -35,4 +35,4 @@ The dataset contains Tweet id which can be scraped using the Twitter API. Furthe
     month = may,
     year = "2022"
 }
-"""
+```
