@@ -13,6 +13,7 @@ If you use any source code or dataset included in this repo, please cite this pa
     year = "2022"
 }
 ```
+[[Paper]](https://aclanthology.org/2022.dravidianlangtech-1.2/)
 
 # Dataset statistics
 
